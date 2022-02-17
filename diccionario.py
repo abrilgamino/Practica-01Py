@@ -6,6 +6,9 @@ user= {
 
 #print(type(user))
 #for key in user:
- #   print(f'element[{key}]: {user[key]}')
+#   print(f'element[{key}]: {user[key]}')
 
 print(user["profesion"])
+print(user["name"]['firstname'])
+
+print('*******************')

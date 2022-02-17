@@ -2,7 +2,7 @@ from math import pi, pow, acos,   atan, degrees
 from os import system
 from platform import architecture, machine, processor, system
 from random import choice, randrange
-from mymodules.custommodul import PrintHello
+from mymodules.Custommodul import PrintHello
 #import math
 #from math import *
 number =5
@@ -15,4 +15,4 @@ number =5
 #print(choice(['perro','peces', 'gatos','elefantes', 'pajaros']))
 #print(architecture(), machine(), processor(),system())
 
-print(PrintHello('Abril'))
+#print(PrintHello('Abril'))
